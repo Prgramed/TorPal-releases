@@ -5,5 +5,14 @@
     <link>https://prgramed.github.io/TorPal-releases/appcast.xml</link>
     <description>TorPal updates</description>
     <language>en</language>
+    <item>
+      <title>Version 0.0.1</title>
+      <pubDate>Mon, 09 Nov 2026 11:33:16 +0000</pubDate>
+      <sparkle:version>1</sparkle:version>
+      <sparkle:shortVersionString>0.0.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>First notarized build (Phase 0 test release).</p>]]></description>
+      <enclosure url="https://github.com/Prgramed/TorPal-releases/releases/download/v0.0.1/TorPal-0.0.1.dmg" type="application/octet-stream" sparkle:edSignature="+unBmjAg8orxh3s6X4cSXYhjrd7W3p7qK8u8qc6184LShQ+14+lM4ORj6MEv03+brgzVXLPimlHlaLbexxVsAQ==" length="11250361"/>
+    </item>
   </channel>
 </rss>
