@@ -6,6 +6,15 @@
     <description>TorPal updates</description>
     <language>en</language>
     <item>
+      <title>Version 0.1.0</title>
+      <pubDate>Mon, 09 Nov 2026 13:58:25 +0000</pubDate>
+      <sparkle:version>3</sparkle:version>
+      <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>TorPal 0.1.0 — first daily-driver build: downloads, add sheet with file selection, inspector, browser/Finder integration, menu bar, settings, watched folder, notifications.</p>]]></description>
+      <enclosure url="https://github.com/Prgramed/TorPal-releases/releases/download/v0.1.0/TorPal-0.1.0.dmg" type="application/octet-stream" sparkle:edSignature="b6pXXvTzhxFJIuJjMZvjFHLfGbaZCH5y4GT3eHu2MqtMwI0OOQBA3hf49cBhriiejifKEq+P3/xE9WBhX88ADg==" length="12048234"/>
+    </item>
+    <item>
       <title>Version 0.0.2</title>
       <pubDate>Mon, 09 Nov 2026 11:36:23 +0000</pubDate>
       <sparkle:version>2</sparkle:version>
