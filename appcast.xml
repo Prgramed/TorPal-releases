@@ -6,6 +6,15 @@
     <description>TorPal updates</description>
     <language>en</language>
     <item>
+      <title>Version 0.0.2</title>
+      <pubDate>Mon, 09 Nov 2026 11:36:23 +0000</pubDate>
+      <sparkle:version>2</sparkle:version>
+      <sparkle:shortVersionString>0.0.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Sparkle update test (0.0.1 → 0.0.2).</p>]]></description>
+      <enclosure url="https://github.com/Prgramed/TorPal-releases/releases/download/v0.0.2/TorPal-0.0.2.dmg" type="application/octet-stream" sparkle:edSignature="UMnbV0aerTmksOTvGAEWiGMDpCdH5IMGhIpCfLEQTOIGTHXlsgpXp8oilwaB30ykXTdfi2M4EUjox0ECCy2aAA==" length="11250253"/>
+    </item>
+    <item>
       <title>Version 0.0.1</title>
       <pubDate>Mon, 09 Nov 2026 11:33:16 +0000</pubDate>
       <sparkle:version>1</sparkle:version>
