@@ -6,6 +6,16 @@
     <description>TorPal updates</description>
     <language>en</language>
     <item>
+      <title>Version 0.3.0</title>
+      <pubDate>Wed, 11 Nov 2026 13:08:09 +0000</pubDate>
+      <sparkle:version>6</sparkle:version>
+      <sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>beta</sparkle:channel>
+      <description><![CDATA[<p>Arabic sources: Sites with an Account (ArabP2P and others; sign up, then enter just your login, and private torrents keep seeding to ratio 1.0 or 72 hours); Arabic-aware search (also tries Arabic, ArSub, Shahid and مدبلج tags); Internet Archive built in for classic films; SubSource Arabic subtitles alongside SubDL; Telegram: sign in with your own account to search and download videos from your channels and groups (Settings › Telegram); Download from Web Page (⇧⌘D) into the new Other Downloads list. Also: Add Public Sites in one click, a SubDL key check, and a new app icon.</p>]]></description>
+      <enclosure url="https://github.com/Prgramed/TorPal-releases/releases/download/v0.3.0/TorPal-0.3.0.dmg" type="application/octet-stream" sparkle:edSignature="NhTeFRwz9KdVIAfXhYoIlGXergVZFOpoyTnvOPTjzGojQSu0M1hf+drDMXcAbYEjDaJYicdp6ooGUtKrQWoFDA==" length="38120952"/>
+    </item>
+    <item>
       <title>Version 0.2.1</title>
       <pubDate>Wed, 11 Nov 2026 09:26:40 +0000</pubDate>
       <sparkle:version>5</sparkle:version>
