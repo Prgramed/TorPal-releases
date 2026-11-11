@@ -6,6 +6,16 @@
     <description>TorPal updates</description>
     <language>en</language>
     <item>
+      <title>Version 0.4.0</title>
+      <pubDate>Wed, 11 Nov 2026 15:19:11 +0000</pubDate>
+      <sparkle:version>8</sparkle:version>
+      <sparkle:shortVersionString>0.4.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>beta</sparkle:channel>
+      <description><![CDATA[<p>New look: the torrent list shows each download with an icon for what it is, a readable name (El Batal · S01E05 with 1080p, WEB-DL tags), a coloured progress bar and the numbers that matter, under live download and upload graphs; the old table is one click away in the toolbar. Search has a big search field, suggestions, result cards with score rings and coloured quality tags, and a Telegram card. New inspector, Other Downloads, menu bar panel and setup assistant. Fix: results found by earlier searches no longer disappear when the first site answers.</p>]]></description>
+      <enclosure url="https://github.com/Prgramed/TorPal-releases/releases/download/v0.4.0/TorPal-0.4.0.dmg" type="application/octet-stream" sparkle:edSignature="kvLmggoovRZvId5Etv5ZjKt/AjjQIhhk40GWBLxa6ah/kPAaaFr1JWRTS9e2NB1t+chisB4/mN9qDRRkCma+BA==" length="38475749"/>
+    </item>
+    <item>
       <title>Version 0.3.1</title>
       <pubDate>Wed, 11 Nov 2026 14:38:23 +0000</pubDate>
       <sparkle:version>7</sparkle:version>
