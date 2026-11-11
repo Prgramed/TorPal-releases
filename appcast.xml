@@ -6,6 +6,16 @@
     <description>TorPal updates</description>
     <language>en</language>
     <item>
+      <title>Version 0.3.1</title>
+      <pubDate>Wed, 11 Nov 2026 14:38:23 +0000</pubDate>
+      <sparkle:version>7</sparkle:version>
+      <sparkle:shortVersionString>0.3.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>beta</sparkle:channel>
+      <description><![CDATA[<p>Sites to search in your browser: save the sites you search yourself, and Search shows a button for each one (plus Open All) that opens that site's own search for what you typed, in your browser. To add a site, search it for torpal and paste the results page address, or paste just the site's address to search it through Google.</p>]]></description>
+      <enclosure url="https://github.com/Prgramed/TorPal-releases/releases/download/v0.3.1/TorPal-0.3.1.dmg" type="application/octet-stream" sparkle:edSignature="UkNcNyZgSMMo8+wMNVPaZitYl0Uv6Cm2/DHWN+ED+nEjHsLUGsKhsW7u9ww9Zf5oZD/IXzdutBI+N9LBfO1nAg==" length="38229517"/>
+    </item>
+    <item>
       <title>Version 0.3.0</title>
       <pubDate>Wed, 11 Nov 2026 13:08:09 +0000</pubDate>
       <sparkle:version>6</sparkle:version>
