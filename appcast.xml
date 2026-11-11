@@ -6,6 +6,16 @@
     <description>TorPal updates</description>
     <language>en</language>
     <item>
+      <title>Version 0.4.1</title>
+      <pubDate>Wed, 11 Nov 2026 15:39:36 +0000</pubDate>
+      <sparkle:version>9</sparkle:version>
+      <sparkle:shortVersionString>0.4.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>beta</sparkle:channel>
+      <description><![CDATA[<p>Fixes: when a site says it's getting too many requests (HTTP 429), Download now waits and retries, each .torrent is fetched only once, and a failure shows on that result with Retry instead of replacing the results. Settings redesigned like System Settings: a sidebar with coloured icons, values next to their controls, and your sources first in Settings › Search. The torrent list remembers how you sorted it.</p>]]></description>
+      <enclosure url="https://github.com/Prgramed/TorPal-releases/releases/download/v0.4.1/TorPal-0.4.1.dmg" type="application/octet-stream" sparkle:edSignature="j29434FI1lYNRd6vQShZDc7ODTiz7yZy+bCDkiSHjlJOeQEDPNLfXaUm66G6iiyIMdazCN3M8DU/ilIy8qxGAg==" length="38521761"/>
+    </item>
+    <item>
       <title>Version 0.4.0</title>
       <pubDate>Wed, 11 Nov 2026 15:19:11 +0000</pubDate>
       <sparkle:version>8</sparkle:version>
