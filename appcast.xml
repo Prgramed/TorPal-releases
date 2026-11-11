@@ -6,6 +6,16 @@
     <description>TorPal updates</description>
     <language>en</language>
     <item>
+      <title>Version 0.4.2</title>
+      <pubDate>Wed, 11 Nov 2026 15:59:36 +0000</pubDate>
+      <sparkle:version>10</sparkle:version>
+      <sparkle:shortVersionString>0.4.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>beta</sparkle:channel>
+      <description><![CDATA[<p>New: sites behind Cloudflare. Turn on Settings › Search › Get past Cloudflare's browser check and TorPal runs FlareSolverr in Docker on this Mac (it opens Docker Desktop if it isn't running; the first time downloads a few hundred MB) and connects it to its Prowlarr. Then run Add Public Sites again to add the sites that were blocked. Also: release builds are now checked to come from one exact commit.</p>]]></description>
+      <enclosure url="https://github.com/Prgramed/TorPal-releases/releases/download/v0.4.2/TorPal-0.4.2.dmg" type="application/octet-stream" sparkle:edSignature="7GIBUxAaQENBHjMkRe6wnwUEtpYMazaQBx8fO71pFhzrH7LDN/U/3OHcpzLEvMmx+AQnHin8msE38TUlkDlfAg==" length="38667520"/>
+    </item>
+    <item>
       <title>Version 0.4.1</title>
       <pubDate>Wed, 11 Nov 2026 15:39:36 +0000</pubDate>
       <sparkle:version>9</sparkle:version>
