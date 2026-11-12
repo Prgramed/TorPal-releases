@@ -6,6 +6,15 @@
     <description>TorPal updates</description>
     <language>en</language>
     <item>
+      <title>Version 1.0.0</title>
+      <pubDate>Thu, 12 Nov 2026 09:18:50 +0000</pubDate>
+      <sparkle:version>16</sparkle:version>
+      <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>TorPal 1.0. Default peer connections are now 500 (installs still at the old 200 move up once). A search result that's already in your list shows ✓ Added instead of an error.</p>]]></description>
+      <enclosure url="https://github.com/Prgramed/TorPal-releases/releases/download/v1.0.0/TorPal-1.0.0.dmg" type="application/octet-stream" sparkle:edSignature="n3vSXA+Y77JhfsskfnEB8Iqpoo60ozWatZrEtiNyNjM4lTraiGqinTdchPgWwOt9WZpl3X0IZ1FjVjPqmNliDQ==" length="38705636"/>
+    </item>
+    <item>
       <title>Version 0.4.7</title>
       <pubDate>Wed, 11 Nov 2026 21:34:25 +0000</pubDate>
       <sparkle:version>15</sparkle:version>
