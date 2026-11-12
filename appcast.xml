@@ -6,6 +6,16 @@
     <description>TorPal updates</description>
     <language>en</language>
     <item>
+      <title>Version 1.0.1</title>
+      <pubDate>Thu, 12 Nov 2026 10:32:30 +0000</pubDate>
+      <sparkle:version>17</sparkle:version>
+      <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>beta</sparkle:channel>
+      <description><![CDATA[<p>Sites added through TorPal now try each address the site lists and keep the one that works, and get seed ratio 1.0 filled in (plus 72 hours seed time for private sites). Sites already in Prowlarr get the seed ratio too.</p>]]></description>
+      <enclosure url="https://github.com/Prgramed/TorPal-releases/releases/download/v1.0.1/TorPal-1.0.1.dmg" type="application/octet-stream" sparkle:edSignature="Wke5E5iF0A8vuBKhLK3JUEW2ktYgmk85Yz0TegmQhcr9a1SVGG8d6TbstaVEZUxABVuGTTJZdo28L4zmLa5KBA==" length="38736841"/>
+    </item>
+    <item>
       <title>Version 1.0.0</title>
       <pubDate>Thu, 12 Nov 2026 09:18:50 +0000</pubDate>
       <sparkle:version>16</sparkle:version>
