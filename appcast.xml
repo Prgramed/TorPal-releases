@@ -6,6 +6,25 @@
     <description>TorPal updates</description>
     <language>en</language>
     <item>
+      <title>Version 1.1.0</title>
+      <pubDate>Wed, 18 Nov 2026 16:06:04 +0000</pubDate>
+      <sparkle:version>26</sparkle:version>
+      <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>beta</sparkle:channel>
+      <description><![CDATA[<p>TorPal 1.1.0: everything other torrent clients had that TorPal didn't (FEATURES.md).
+- Copy Magnet Link and Export .torrent File (right-click).
+- Add sheet: skip the check when the files are already there; content layout (as in the torrent / always in a folder / without its folder).
+- Window › Statistics: all-time totals (removed torrents included), this session, now.
+- When a download finishes: run a Shortcut or a script (Settings › Downloads).
+- When everything is done: sleep or shut down, once, after a minute's notice (File menu, menu bar).
+- Peers: Ban Peer (unban in Settings › Network › Blocklist). Inspector › Options: Super seeding.
+- Settings › Downloads: reserve each file's full size on disk.
+- I2P: torrents from I2P trackers download over I2P (router in Docker, or your own).
+- TorPal in Arabic: Settings › General › Language.</p>]]></description>
+      <enclosure url="https://github.com/Prgramed/TorPal-releases/releases/download/v1.1.0/TorPal-1.1.0.dmg" type="application/octet-stream" sparkle:edSignature="PbP6dql9LF4jtSJkkH8fBRfQRdjeE++wt3v/GuSnEaEnRg67jw89HMnJR1eq6LBjgMaxOC8hIlp/TPNejgTjBA==" length="40511355"/>
+    </item>
+    <item>
       <title>Version 1.0.9</title>
       <pubDate>Wed, 18 Nov 2026 14:50:54 +0000</pubDate>
       <sparkle:version>25</sparkle:version>
