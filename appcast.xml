@@ -6,6 +6,16 @@
     <description>TorPal updates</description>
     <language>en</language>
     <item>
+      <title>Version 1.1.2</title>
+      <pubDate>Wed, 18 Nov 2026 23:45:24 +0000</pubDate>
+      <sparkle:version>28</sparkle:version>
+      <sparkle:shortVersionString>1.1.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>beta</sparkle:channel>
+      <description><![CDATA[<p>Download from Web Page now takes any kind of file from the Internet Archive: paste an item's address and pick its PDF, EPUB, audio, video or archive files. Direct links to such files on other sites work too, and each file is saved under its own extension. Downloads no longer show a blank title: a magnet link with no name in it is listed under the title it was found with until the torrent names itself.</p>]]></description>
+      <enclosure url="https://github.com/Prgramed/TorPal-releases/releases/download/v1.1.2/TorPal-1.1.2.dmg" type="application/octet-stream" sparkle:edSignature="/iMkpLqh2FD0f9/Y0Pey7/bUWE5lt4WkeGOeBIBXDdtKzhRFJjIWr8aqC1hBqqN/F5pQmm+kGeFF9PIqCu9TAg==" length="40306651"/>
+    </item>
+    <item>
       <title>Version 1.1.1</title>
       <pubDate>Wed, 18 Nov 2026 22:39:31 +0000</pubDate>
       <sparkle:version>27</sparkle:version>
