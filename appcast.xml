@@ -6,6 +6,21 @@
     <description>TorPal updates</description>
     <language>en</language>
     <item>
+      <title>Version 1.0.7</title>
+      <pubDate>Wed, 18 Nov 2026 14:04:12 +0000</pubDate>
+      <sparkle:version>23</sparkle:version>
+      <sparkle:shortVersionString>1.0.7</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>beta</sparkle:channel>
+      <description><![CDATA[<p>TorPal 1.0.7: buttons for everything the engine could already do.
+- Inspector › Options: where a download is and where it goes when done (Move To…, Change Destination…), its own speed limits, its own seeding goal, Rename….
+- Right-click a torrent: Rename…, Move To… (several at once), Label › New Label….
+- Files: right-click a file › Rename…. Peers: Add Peer… (IP:port).
+- File › Create Torrent… (⇧⌘N), also in the + menu: make a .torrent of a file or folder and seed it.
+- Labels: + in the sidebar, right-click › Edit Label…: name, color, the folder finished downloads move to, a seeding goal, Delete.</p>]]></description>
+      <enclosure url="https://github.com/Prgramed/TorPal-releases/releases/download/v1.0.7/TorPal-1.0.7.dmg" type="application/octet-stream" sparkle:edSignature="YxhCPX0GGxCmgC36t2zAkEkD+2LulYk0/i2ICXD2uIKWs+byxuf0EMMh8r3jqNtqf7M6D4u+gW093iZCG5/RCw==" length="39168778"/>
+    </item>
+    <item>
       <title>Version 1.0.6</title>
       <pubDate>Wed, 18 Nov 2026 13:25:49 +0000</pubDate>
       <sparkle:version>22</sparkle:version>
