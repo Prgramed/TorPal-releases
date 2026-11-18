@@ -6,6 +6,19 @@
     <description>TorPal updates</description>
     <language>en</language>
     <item>
+      <title>Version 1.0.9</title>
+      <pubDate>Wed, 18 Nov 2026 14:50:54 +0000</pubDate>
+      <sparkle:version>25</sparkle:version>
+      <sparkle:shortVersionString>1.0.9</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>beta</sparkle:channel>
+      <description><![CDATA[<p>TorPal 1.0.9: edit trackers; public trackers.
+- Inspector › Trackers: Add Trackers… (one per line), right-click Edit… / Copy Address / Remove, Ask for Peers.
+- Settings › Network › Public trackers (off by default): a public tracker list, refreshed daily, added to new downloads and, on request, to current ones. Never to torrents from private trackers.
+- Every tracker of a torrent is now asked for peers, not just the first that answers.</p>]]></description>
+      <enclosure url="https://github.com/Prgramed/TorPal-releases/releases/download/v1.0.9/TorPal-1.0.9.dmg" type="application/octet-stream" sparkle:edSignature="m8NK9QDHjYuZDtVELJ65hfzlvDv/xszxQaPh7yjog5pY3I3j6gSFVgW5xz+MiOmjcEQkosZwtt8s31BdDfyHCw==" length="39688561"/>
+    </item>
+    <item>
       <title>Version 1.0.8</title>
       <pubDate>Wed, 18 Nov 2026 14:34:59 +0000</pubDate>
       <sparkle:version>24</sparkle:version>
