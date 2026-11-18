@@ -6,6 +6,18 @@
     <description>TorPal updates</description>
     <language>en</language>
     <item>
+      <title>Version 1.0.6</title>
+      <pubDate>Wed, 18 Nov 2026 13:25:49 +0000</pubDate>
+      <sparkle:version>22</sparkle:version>
+      <sparkle:shortVersionString>1.0.6</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>beta</sparkle:channel>
+      <description><![CDATA[<p>TorPal 1.0.6:
+- Clear Completed: a toolbar button that takes finished torrents off the list and leaves their files where they are. Private-tracker torrents stay until they've seeded 72 hours and to a ratio of 1.0.
+- Internet Archive downloads that stopped at 99.x% now finish even when archive.org's old server names in the torrent no longer answer: after 3 minutes with nothing arriving, the last pieces come straight from archive.org and are checked against its checksums.</p>]]></description>
+      <enclosure url="https://github.com/Prgramed/TorPal-releases/releases/download/v1.0.6/TorPal-1.0.6.dmg" type="application/octet-stream" sparkle:edSignature="KcVcK9AkA/rYT0MQKLLrGBD4ZZ3GeYXVHGyTyFVHlXeDDdZdOoq4+eb3O5KKAHOU5NzQ9Ktu9OjM5wM1O9IKDA==" length="38936759"/>
+    </item>
+    <item>
       <title>Version 1.0.5</title>
       <pubDate>Wed, 18 Nov 2026 13:02:15 +0000</pubDate>
       <sparkle:version>21</sparkle:version>
