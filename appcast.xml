@@ -6,6 +6,22 @@
     <description>TorPal updates</description>
     <language>en</language>
     <item>
+      <title>Version 1.0.4</title>
+      <pubDate>Wed, 18 Nov 2026 12:21:07 +0000</pubDate>
+      <sparkle:version>20</sparkle:version>
+      <sparkle:shortVersionString>1.0.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>beta</sparkle:channel>
+      <description><![CDATA[<p>TorPal 1.0.4 (includes the never-published 1.0.2 and 1.0.3):
+- Pause All and the toolbar pause button really pause torrents now; with rows selected they act on those rows.
+- Search has a Books filter next to Any, Movies and TV.
+- Download from Web Page leaves out dead links and pages that aren't videos.
+- After an update the background helper restarts, so fixes take effect right away.
+- Failed saves (Keychain keys, settings, watch folder) now say so instead of failing silently.
+- Security: a hostile web page can no longer crash, stall or redirect the helper.</p>]]></description>
+      <enclosure url="https://github.com/Prgramed/TorPal-releases/releases/download/v1.0.4/TorPal-1.0.4.dmg" type="application/octet-stream" sparkle:edSignature="7zZ0+Oa3JNRTfCgyV8FrxjOs7aWhN8YD+qhWUY9hQjlf37QTqzXhrhhtjbO2lmhFY74EvXTkW1pnYYm0VX6kCw==" length="38824020"/>
+    </item>
+    <item>
       <title>Version 1.0.1</title>
       <pubDate>Thu, 12 Nov 2026 10:32:30 +0000</pubDate>
       <sparkle:version>17</sparkle:version>
