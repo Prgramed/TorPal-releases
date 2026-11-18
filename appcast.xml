@@ -6,6 +6,19 @@
     <description>TorPal updates</description>
     <language>en</language>
     <item>
+      <title>Version 1.0.8</title>
+      <pubDate>Wed, 18 Nov 2026 14:34:59 +0000</pubDate>
+      <sparkle:version>24</sparkle:version>
+      <sparkle:shortVersionString>1.0.8</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>beta</sparkle:channel>
+      <description><![CDATA[<p>TorPal 1.0.8: RSS feeds with auto-download rules.
+- Feeds in the sidebar: add your tracker's RSS address (kept in the Keychain, since it carries your passkey); see each feed's latest items and download any of them.
+- Rules…: words a title must and mustn't have (Arabic spellings and dots don't matter; regular expressions if you like), which feeds, once per episode, a label, a folder, add paused, a size cap, and a live preview of what it matches.
+- The helper checks the feeds on their schedule with the window closed and notifies you when a rule adds something. What was already in a feed is only taken if you ask.</p>]]></description>
+      <enclosure url="https://github.com/Prgramed/TorPal-releases/releases/download/v1.0.8/TorPal-1.0.8.dmg" type="application/octet-stream" sparkle:edSignature="2AjYmKTJkSj2ESplEiHqapP+zcCG71+9nRSMcRtxFkuCGr35LgVrlp/n4n2jx8yKhTfg07s7MFk3rvdIhfnPCQ==" length="39543752"/>
+    </item>
+    <item>
       <title>Version 1.0.7</title>
       <pubDate>Wed, 18 Nov 2026 14:04:12 +0000</pubDate>
       <sparkle:version>23</sparkle:version>
