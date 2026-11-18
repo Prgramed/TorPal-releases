@@ -6,6 +6,18 @@
     <description>TorPal updates</description>
     <language>en</language>
     <item>
+      <title>Version 1.0.5</title>
+      <pubDate>Wed, 18 Nov 2026 13:02:15 +0000</pubDate>
+      <sparkle:version>21</sparkle:version>
+      <sparkle:shortVersionString>1.0.5</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>beta</sparkle:channel>
+      <description><![CDATA[<p>TorPal 1.0.5:
+- Internet Archive downloads no longer stop at 99.x%. archive.org changes some of an item's files after making its torrent, so a few pieces could never be verified. TorPal now skips those pieces, fetches their bytes straight from archive.org, and checks each repaired file against archive.org's own checksum before calling it done. Downloads already stuck finish on their own after the update.
+- archive.org's bookkeeping files (_meta.xml, thumbnails) are no longer downloaded.</p>]]></description>
+      <enclosure url="https://github.com/Prgramed/TorPal-releases/releases/download/v1.0.5/TorPal-1.0.5.dmg" type="application/octet-stream" sparkle:edSignature="5EdT3l+Anz1Uxj617agkPwGKCw1LgqFlJv1eSGFgKROy6l90JA5G898+ASJs6Lgq6Hk8Y4921SP4CAldLBdkAQ==" length="38911683"/>
+    </item>
+    <item>
       <title>Version 1.0.4</title>
       <pubDate>Wed, 18 Nov 2026 12:21:07 +0000</pubDate>
       <sparkle:version>20</sparkle:version>
