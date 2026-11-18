@@ -6,6 +6,16 @@
     <description>TorPal updates</description>
     <language>en</language>
     <item>
+      <title>Version 1.1.1</title>
+      <pubDate>Wed, 18 Nov 2026 22:39:31 +0000</pubDate>
+      <sparkle:version>27</sparkle:version>
+      <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>beta</sparkle:channel>
+      <description><![CDATA[<p>Bug-fix release after a review of the whole app. Fixes: cancelling a magnet in the add sheet could delete files already on disk; a renamed download could overwrite another one; some magnet downloads could not be paused, removed or finished; TorPal could hang when quitting; Start Paused did not stay paused; Arabic messages with a name or number in them stayed in English; downloads to a network share were refused for lack of space; feed rules, seeding goals, Sleep When Done, the low-disk guard and Import Settings each had cases where they did the wrong thing. Remote control and settings import are also safer.</p>]]></description>
+      <enclosure url="https://github.com/Prgramed/TorPal-releases/releases/download/v1.1.1/TorPal-1.1.1.dmg" type="application/octet-stream" sparkle:edSignature="QMRbiPvM3w2vah8FRtyWnVjyg6Dp9jY5gyg/QN8c3i2DUNLvVNebz5u3hFbCQLLanB3ZydLcp1GnfCKcjRtUAA==" length="40234900"/>
+    </item>
+    <item>
       <title>Version 1.1.0</title>
       <pubDate>Wed, 18 Nov 2026 16:06:04 +0000</pubDate>
       <sparkle:version>26</sparkle:version>
